@@ -3,5 +3,20 @@
     "firstName": "adfsadf",
     "lastName": "asfdasdf",
     "phoneNumber": "asfdsf"
+  },
+  "Bob Henderson": {
+    "firstName": "Bob",
+    "lastName": "Henderson",
+    "phoneNumber": "888-222-9999"
+  },
+  "Jeff Enke": {
+    "firstName": "Jeff",
+    "lastName": "Enke",
+    "phoneNumber": "206-938-0403"
+  },
+  "Sally Clarkson": {
+    "firstName": "Sally",
+    "lastName": "Clarkson",
+    "phoneNumber": "425-999-2222"
   }
 }
